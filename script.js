@@ -24,7 +24,7 @@ const translations = {
     payYappy: "Yappy: $24,90", payCash: "Contra Entrega: $26,90", hintYappy: "Vista previa del método de pago Yappy.",
     hintCash: "Vista previa del pago contra entrega.", demoBtn: "Demostración visual · Pedido desactivado", demoNote: "Esta vista no envía ni almacena datos.",
     openTestimonial: "Ver recomendación completa", openTestimonial1: "Ver completa la recomendación 1", openTestimonial2: "Ver completa la recomendación 2", openTestimonial3: "Ver completa la recomendación 3", openTestimonial4: "Ver completa la recomendación 4", closeTestimonial: "Cerrar recomendación",
-    footerCompanyTitle: "NATURPHARMA LABS, S.A.", footerContactTitle: "Contacto", footerHelpTitle: "DELIVERY A DOMICILIO", footerCare: "Modo de empleo", footerYappy: "Yappy: $24,90", footerCash: "Contra Entrega: $26,90", footerStores: "EXPOSITOR PUNTOS DE VENTA", footerCopyright: "© 2026, Artinatur. Todos los derechos reservados.", footerCreatedBy: "Creado por", footerLocale: "Panamá (USD $)"
+    footerCompanyTitle: "NATURPHARMA LABS, S.A.", footerContactTitle: "Contacto", footerHelpTitle: "DELIVERY A DOMICILIO", footerCare: "Modo de empleo", footerYappy: "Yappy: $24,90", footerCash: "Contra Entrega: $26,90", footerStores: "EXPOSITOR PUNTOS DE VENTA", footerCopyright: "© 2026, Artinatur. Todos los derechos reservados.", footerCreatedBy: "Creada por", footerLocale: "Panamá (USD $)"
   },
   en: {
     skipLink: "Skip to main content", topStrip: "Artinatur. Nature to keep you moving.",
