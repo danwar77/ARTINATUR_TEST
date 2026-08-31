@@ -552,6 +552,20 @@ input:focus::placeholder {
   font-weight: 700;
 }
 
+.footer-legal {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.footer-credit a {
+  color: inherit;
+  text-underline-offset: 0.2rem;
+}
+
+.footer-credit a:hover {
+  color: #fff;
+}
+
 .footer-meta {
   display: grid;
   justify-items: end;
