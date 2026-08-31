@@ -1,0 +1,28 @@
+# Sensitive and local files
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Internal and source material
+server/
+migrations/
+docs/
+*.docx
+*.pdf
+*.zip
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
